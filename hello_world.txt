@@ -1,0 +1,2 @@
+I'm adding some text here for testing git 
+test 2
